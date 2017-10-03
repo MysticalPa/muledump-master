@@ -1,3 +1,7 @@
+## Added
+Added Marks to a existing muledump.
+
+
 ## Synopsis
 
 This tool allows you to list contents of all your accounts in a single page (characters, their stats and items, items in vaults). Also it generates a summary of all the items - you probably saw screenshots of these in trading forum ([example](http://i755.photobucket.com/albums/xx195/Ind3sisiv3/Ilovemuledump.png)).
